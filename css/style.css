@@ -1,0 +1,119 @@
+html, body {
+    min-height: 100vh;
+}
+
+body {
+    background-color: #E4E5E7;
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.head {
+    display: flex;
+    align-items: center;
+    margin: 20 px 60px;
+}
+
+.cat {
+    width: 30%; /* Изображение будет уменьшено до 100% ширины родительского контейнера, сохраняя при этом пропорции. */
+    height: auto; /* Это гарантирует сохранение пропорций при изменении ширины. */
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #E4E5E7;
+  border: none;
+  border-radius: 10px;
+}
+
+button:hover {
+  background-color: #6b6b6b;
+}
+
+.h {
+    margin-bottom: 0.5rem;
+    font-family: Big Fish;
+    font-size:5rem;
+    font-weight:300;
+    line-height:1.2;
+}
+
+.text1 {
+    margin-left: 400px;
+}
+
+.text2 {
+    text-align: center;
+    font-size:3rem;
+} 
+
+.cardtask {
+    border-radius: 0.50rem;
+    justify-content: space-between;
+    margin-bottom: 1.5rem;
+    
+}
+
+.list-group-item {
+    position: relative;
+    display: flex;
+    padding: 0.75rem 1.25rem;
+    margin-bottom: -1px;
+    margin: 0 20px;
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,.125);
+    justify-content: space-between;
+    border-radius: 10px;
+}
+
+.list-group {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+.task-title {
+    font-family: 'Big Fish Casuals';
+    font-weight: 400;
+    padding-top: 5px;
+  }
+
+  .btn-action img {
+    pointer-events: none;
+  }
+
+  /* .form {
+     display: flex;
+     justify-content: center;
+  } */
+
+  .form {
+    display: flex;
+    justify-content: center;
+  }
+
+  input[type="text"] {
+    width: 60%;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    margin-right: 10px;
+  }
+  
+
+.addText {
+    font-family: 'Big Fish Casuals';
+    color: black;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: #fff;
+}
+
+.task--done {
+    text-decoration: line-through;
+    color: #b3b3b3;
+}

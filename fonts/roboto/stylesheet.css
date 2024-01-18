@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'Big Fish';
+    src: url('BigFishBlack.eot');
+    src: local('Big Fish Black'), local('BigFishBlack'),
+        url('BigFishBlack.eot?#iefix') format('embedded-opentype'),
+        url('BigFishBlack.woff2') format('woff2'),
+        url('BigFishBlack.woff') format('woff'),
+        url('BigFishBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Big Fish';
+    src: url('BigFishBold.eot');
+    src: local('Big Fish Bold'), local('BigFishBold'),
+        url('BigFishBold.eot?#iefix') format('embedded-opentype'),
+        url('BigFishBold.woff2') format('woff2'),
+        url('BigFishBold.woff') format('woff'),
+        url('BigFishBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Big Fish Casuals';
+    src: url('BigFishCasuals.eot');
+    src: local('Big Fish Casuals'), local('BigFishCasuals'),
+        url('BigFishCasuals.eot?#iefix') format('embedded-opentype'),
+        url('BigFishCasuals.woff2') format('woff2'),
+        url('BigFishCasuals.woff') format('woff'),
+        url('BigFishCasuals.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Big Fish';
+    src: url('BigFish.eot');
+    src: local('Big Fish'), local('BigFish'),
+        url('BigFish.eot?#iefix') format('embedded-opentype'),
+        url('BigFish.woff2') format('woff2'),
+        url('BigFish.woff') format('woff'),
+        url('BigFish.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Big Fish';
+    src: url('BigFish_1.eot');
+    src: local('Big Fish'), local('BigFish'),
+        url('BigFish_1.eot?#iefix') format('embedded-opentype'),
+        url('BigFish_1.woff2') format('woff2'),
+        url('BigFish_1.woff') format('woff'),
+        url('BigFish_1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Big Fish Extras';
+    src: url('BigFishExtras.eot');
+    src: local('Big Fish Extras'), local('BigFishExtras'),
+        url('BigFishExtras.eot?#iefix') format('embedded-opentype'),
+        url('BigFishExtras.woff2') format('woff2'),
+        url('BigFishExtras.woff') format('woff'),
+        url('BigFishExtras.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Big Fish';
+    src: url('BigFishBlack_1.eot');
+    src: local('Big Fish Black'), local('BigFishBlack'),
+        url('BigFishBlack_1.eot?#iefix') format('embedded-opentype'),
+        url('BigFishBlack_1.woff2') format('woff2'),
+        url('BigFishBlack_1.woff') format('woff'),
+        url('BigFishBlack_1.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Big Fish';
+    src: url('BigFishBold_1.eot');
+    src: local('Big Fish Bold'), local('BigFishBold'),
+        url('BigFishBold_1.eot?#iefix') format('embedded-opentype'),
+        url('BigFishBold_1.woff2') format('woff2'),
+        url('BigFishBold_1.woff') format('woff'),
+        url('BigFishBold_1.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Big Fish Extras';
+    src: url('BigFishExtras_1.eot');
+    src: local('Big Fish Extras'), local('BigFishExtras'),
+        url('BigFishExtras_1.eot?#iefix') format('embedded-opentype'),
+        url('BigFishExtras_1.woff2') format('woff2'),
+        url('BigFishExtras_1.woff') format('woff'),
+        url('BigFishExtras_1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Big Fish Casuals';
+    src: url('BigFishCasuals_1.eot');
+    src: local('Big Fish Casuals'), local('BigFishCasuals'),
+        url('BigFishCasuals_1.eot?#iefix') format('embedded-opentype'),
+        url('BigFishCasuals_1.woff2') format('woff2'),
+        url('BigFishCasuals_1.woff') format('woff'),
+        url('BigFishCasuals_1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
