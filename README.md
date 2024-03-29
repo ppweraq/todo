@@ -1,1 +1,2 @@
-Проект доступен по ссылке - https://ppweraq.github.io/todo/
+Проект доступен по ссылке - https://todo-testapp.netlify.app/
+
